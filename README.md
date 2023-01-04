@@ -4,9 +4,6 @@
 
 # There are four possible directions for a sequence: left-to-right, top-to-bottom, upper-left-to-lower-right, and upper-right-to-lower-left. 
 
-# A sequence can be:
-   open: a stone can be put on a square at either side of the sequence.
-   closed: the sequence is blocked on both sides, so that no stone can be placed on either side of the sequence. This can occur 
-           either because the sequence begins/ends near the border of the board, or because there is a stone of a different colour in 
-           the location immediately next to the beginning/end of the sequence.
-           semi-open: the sequence is neither open or closed
+# A sequence can be: (open: a stone can be put on a square at either side of the sequence), (closed: the sequence is blocked on both sides, so that no stone can be placed on either side of the sequence. This can occur either because the sequence begins/ends near the border of the board, or because there is a stone of a different colour in the location immediately next to the beginning/end of the sequence), (semi-open: the sequence is neither open or closed).
+   
+           
